@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210">
+<style>
+  .header { font: 600 18px "Segoe UI", Ubuntu, sans-serif; fill: #e6edf3; animation: fadeIn 0.8s ease-in-out forwards; }
+  .lang-name { font: 400 15px "Segoe UI", Ubuntu, sans-serif; fill: #c9d1d9; }
+  .lang-pct { fill: #8b949e; }
+  .stagger { opacity: 0; animation: fadeIn 0.3s ease-in-out forwards; }
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" width="419" height="209" rx="4.5" fill="#151b23" stroke="#30363d" stroke-width="1"/>
+<text x="25" y="35" class="header">Most Used Languages</text>
+<clipPath id="barclip">
+  <rect x="25" y="50" width="0" height="8" rx="4">
+    <animate attributeName="width" from="0" to="370" dur="1s" fill="freeze"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#barclip)">
+<rect x="25.0" y="50" width="213.9" height="8" fill="#3178c6"/>
+<rect x="237.9" y="50" width="75.3" height="8" fill="#000080"/>
+<rect x="312.2" y="50" width="73.0" height="8" fill="#3572A5"/>
+<rect x="384.2" y="50" width="7.5" height="8" fill="#663399"/>
+<rect x="390.6" y="50" width="4.9" height="8" fill="#89e051"/>
+<rect x="394.5" y="50" width="1.5" height="8" fill="#f1e05a"/>
+</g>
+<g class="stagger" style="animation-delay: 450ms">
+  <circle cx="30" cy="76" r="5" fill="#3178c6"/>  <text x="42" y="80" class="lang-name">TypeScript <tspan class="lang-pct">57.53%</tspan></text>
+</g>
+<g class="stagger" style="animation-delay: 600ms">
+  <circle cx="30" cy="98" r="5" fill="#000080"/>  <text x="42" y="102" class="lang-name">Lua <tspan class="lang-pct">20.08%</tspan></text>
+</g>
+<g class="stagger" style="animation-delay: 750ms">
+  <circle cx="30" cy="120" r="5" fill="#3572A5"/>  <text x="42" y="124" class="lang-name">Python <tspan class="lang-pct">19.46%</tspan></text>
+</g>
+<g class="stagger" style="animation-delay: 900ms">
+  <circle cx="30" cy="142" r="5" fill="#663399"/>  <text x="42" y="146" class="lang-name">CSS <tspan class="lang-pct">1.75%</tspan></text>
+</g>
+<g class="stagger" style="animation-delay: 1050ms">
+  <circle cx="30" cy="164" r="5" fill="#89e051"/>  <text x="42" y="168" class="lang-name">Shell <tspan class="lang-pct">1.05%</tspan></text>
+</g>
+<g class="stagger" style="animation-delay: 1200ms">
+  <circle cx="30" cy="186" r="5" fill="#f1e05a"/>  <text x="42" y="190" class="lang-name">JavaScript <tspan class="lang-pct">0.14%</tspan></text>
+</g>
+</svg>
