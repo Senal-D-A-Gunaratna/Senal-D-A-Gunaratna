@@ -25,10 +25,10 @@
   <circle cx="30" cy="76" r="5" fill="#3178c6"/>  <text x="42" y="80" class="lang-name">TypeScript <tspan class="lang-pct">57.51%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 600ms">
-  <circle cx="30" cy="98" r="5" fill="#000080"/>  <text x="42" y="102" class="lang-name">Lua <tspan class="lang-pct">20.07%</tspan></text>
+  <circle cx="30" cy="98" r="5" fill="#000080"/>  <text x="42" y="102" class="lang-name">Lua <tspan class="lang-pct">20.08%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 750ms">
-  <circle cx="30" cy="120" r="5" fill="#3572A5"/>  <text x="42" y="124" class="lang-name">Python <tspan class="lang-pct">19.49%</tspan></text>
+  <circle cx="30" cy="120" r="5" fill="#3572A5"/>  <text x="42" y="124" class="lang-name">Python <tspan class="lang-pct">19.48%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 900ms">
   <circle cx="30" cy="142" r="5" fill="#663399"/>  <text x="42" y="146" class="lang-name">CSS <tspan class="lang-pct">1.75%</tspan></text>
