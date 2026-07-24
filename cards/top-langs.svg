@@ -14,27 +14,27 @@
   </rect>
 </clipPath>
 <g clip-path="url(#barclip)">
-<rect x="25.0" y="50" width="213.9" height="8" fill="#3178c6"/>
-<rect x="237.9" y="50" width="75.3" height="8" fill="#000080"/>
-<rect x="312.2" y="50" width="73.0" height="8" fill="#3572A5"/>
+<rect x="25.0" y="50" width="213.8" height="8" fill="#3178c6"/>
+<rect x="237.8" y="50" width="75.3" height="8" fill="#000080"/>
+<rect x="312.1" y="50" width="73.1" height="8" fill="#3572A5"/>
 <rect x="384.2" y="50" width="7.5" height="8" fill="#663399"/>
 <rect x="390.6" y="50" width="4.9" height="8" fill="#89e051"/>
 <rect x="394.5" y="50" width="1.5" height="8" fill="#f1e05a"/>
 </g>
 <g class="stagger" style="animation-delay: 450ms">
-  <circle cx="30" cy="76" r="5" fill="#3178c6"/>  <text x="42" y="80" class="lang-name">TypeScript <tspan class="lang-pct">57.53%</tspan></text>
+  <circle cx="30" cy="76" r="5" fill="#3178c6"/>  <text x="42" y="80" class="lang-name">TypeScript <tspan class="lang-pct">57.51%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 600ms">
-  <circle cx="30" cy="98" r="5" fill="#000080"/>  <text x="42" y="102" class="lang-name">Lua <tspan class="lang-pct">20.08%</tspan></text>
+  <circle cx="30" cy="98" r="5" fill="#000080"/>  <text x="42" y="102" class="lang-name">Lua <tspan class="lang-pct">20.07%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 750ms">
-  <circle cx="30" cy="120" r="5" fill="#3572A5"/>  <text x="42" y="124" class="lang-name">Python <tspan class="lang-pct">19.46%</tspan></text>
+  <circle cx="30" cy="120" r="5" fill="#3572A5"/>  <text x="42" y="124" class="lang-name">Python <tspan class="lang-pct">19.49%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 900ms">
   <circle cx="30" cy="142" r="5" fill="#663399"/>  <text x="42" y="146" class="lang-name">CSS <tspan class="lang-pct">1.75%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 1050ms">
-  <circle cx="30" cy="164" r="5" fill="#89e051"/>  <text x="42" y="168" class="lang-name">Shell <tspan class="lang-pct">1.05%</tspan></text>
+  <circle cx="30" cy="164" r="5" fill="#89e051"/>  <text x="42" y="168" class="lang-name">Shell <tspan class="lang-pct">1.04%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 1200ms">
   <circle cx="30" cy="186" r="5" fill="#f1e05a"/>  <text x="42" y="190" class="lang-name">JavaScript <tspan class="lang-pct">0.14%</tspan></text>
