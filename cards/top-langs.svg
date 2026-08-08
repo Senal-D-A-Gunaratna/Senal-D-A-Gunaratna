@@ -22,16 +22,16 @@
 <rect x="394.5" y="50" width="1.5" height="8" fill="#f1e05a"/>
 </g>
 <g class="stagger" style="animation-delay: 450ms">
-  <circle cx="30" cy="76" r="5" fill="#3178c6"/>  <text x="42" y="80" class="lang-name">TypeScript <tspan class="lang-pct">56.38%</tspan></text>
+  <circle cx="30" cy="76" r="5" fill="#3178c6"/>  <text x="42" y="80" class="lang-name">TypeScript <tspan class="lang-pct">56.37%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 600ms">
-  <circle cx="30" cy="98" r="5" fill="#000080"/>  <text x="42" y="102" class="lang-name">Lua <tspan class="lang-pct">21.45%</tspan></text>
+  <circle cx="30" cy="98" r="5" fill="#000080"/>  <text x="42" y="102" class="lang-name">Lua <tspan class="lang-pct">21.46%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 750ms">
-  <circle cx="30" cy="120" r="5" fill="#3572A5"/>  <text x="42" y="124" class="lang-name">Python <tspan class="lang-pct">19.30%</tspan></text>
+  <circle cx="30" cy="120" r="5" fill="#3572A5"/>  <text x="42" y="124" class="lang-name">Python <tspan class="lang-pct">19.29%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 900ms">
-  <circle cx="30" cy="142" r="5" fill="#663399"/>  <text x="42" y="146" class="lang-name">CSS <tspan class="lang-pct">1.72%</tspan></text>
+  <circle cx="30" cy="142" r="5" fill="#663399"/>  <text x="42" y="146" class="lang-name">CSS <tspan class="lang-pct">1.71%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 1050ms">
   <circle cx="30" cy="164" r="5" fill="#89e051"/>  <text x="42" y="168" class="lang-name">Shell <tspan class="lang-pct">1.02%</tspan></text>
