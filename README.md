@@ -11,7 +11,6 @@ Just a random 16-year-old Linux enthusiast who enjoys tinkering with software
 
 ![Lua](assets/lua.svg)
 ![Python](assets/python.svg)
-![TypeScript](assets/typescript.svg)
 ![Neovim](assets/neovim.svg)
 ![Arch](assets/archlinux.svg)
 
