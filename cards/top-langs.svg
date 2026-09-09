@@ -14,20 +14,20 @@
   </rect>
 </clipPath>
 <g clip-path="url(#barclip)">
-<rect x="25.0" y="50" width="264.5" height="8" fill="#000080"/>
-<rect x="288.5" y="50" width="56.1" height="8" fill="#3572A5"/>
+<rect x="25.0" y="50" width="264.4" height="8" fill="#000080"/>
+<rect x="288.4" y="50" width="56.1" height="8" fill="#3572A5"/>
 <rect x="343.6" y="50" width="24.5" height="8" fill="#663399"/>
-<rect x="367.1" y="50" width="18.1" height="8" fill="#89e051"/>
-<rect x="384.2" y="50" width="11.8" height="8" fill="#dea584"/>
+<rect x="367.0" y="50" width="18.1" height="8" fill="#89e051"/>
+<rect x="384.1" y="50" width="11.9" height="8" fill="#dea584"/>
 </g>
 <g class="stagger" style="animation-delay: 450ms">
-  <circle cx="30" cy="76" r="5" fill="#000080"/>  <text x="42" y="80" class="lang-name">Lua <tspan class="lang-pct">71.21%</tspan></text>
+  <circle cx="30" cy="76" r="5" fill="#000080"/>  <text x="42" y="80" class="lang-name">Lua <tspan class="lang-pct">71.19%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 600ms">
-  <circle cx="30" cy="98" r="5" fill="#3572A5"/>  <text x="42" y="102" class="lang-name">Python <tspan class="lang-pct">14.89%</tspan></text>
+  <circle cx="30" cy="98" r="5" fill="#3572A5"/>  <text x="42" y="102" class="lang-name">Python <tspan class="lang-pct">14.90%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 750ms">
-  <circle cx="30" cy="120" r="5" fill="#663399"/>  <text x="42" y="124" class="lang-name">CSS <tspan class="lang-pct">6.34%</tspan></text>
+  <circle cx="30" cy="120" r="5" fill="#663399"/>  <text x="42" y="124" class="lang-name">CSS <tspan class="lang-pct">6.35%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 900ms">
   <circle cx="30" cy="142" r="5" fill="#89e051"/>  <text x="42" y="146" class="lang-name">Shell <tspan class="lang-pct">4.62%</tspan></text>
