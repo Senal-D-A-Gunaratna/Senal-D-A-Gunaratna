@@ -14,25 +14,25 @@
   </rect>
 </clipPath>
 <g clip-path="url(#barclip)">
-<rect x="25.0" y="50" width="266.8" height="8" fill="#000080"/>
-<rect x="290.8" y="50" width="54.9" height="8" fill="#3572A5"/>
-<rect x="344.7" y="50" width="24.0" height="8" fill="#663399"/>
-<rect x="367.7" y="50" width="17.7" height="8" fill="#89e051"/>
+<rect x="25.0" y="50" width="267.1" height="8" fill="#000080"/>
+<rect x="291.1" y="50" width="54.7" height="8" fill="#3572A5"/>
+<rect x="344.9" y="50" width="23.9" height="8" fill="#663399"/>
+<rect x="367.8" y="50" width="17.7" height="8" fill="#89e051"/>
 <rect x="384.4" y="50" width="11.6" height="8" fill="#dea584"/>
 </g>
 <g class="stagger" style="animation-delay: 450ms">
-  <circle cx="30" cy="76" r="5" fill="#000080"/>  <text x="42" y="80" class="lang-name">Lua <tspan class="lang-pct">71.84%</tspan></text>
+  <circle cx="30" cy="76" r="5" fill="#000080"/>  <text x="42" y="80" class="lang-name">Lua <tspan class="lang-pct">71.92%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 600ms">
-  <circle cx="30" cy="98" r="5" fill="#3572A5"/>  <text x="42" y="102" class="lang-name">Python <tspan class="lang-pct">14.57%</tspan></text>
+  <circle cx="30" cy="98" r="5" fill="#3572A5"/>  <text x="42" y="102" class="lang-name">Python <tspan class="lang-pct">14.53%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 750ms">
-  <circle cx="30" cy="120" r="5" fill="#663399"/>  <text x="42" y="124" class="lang-name">CSS <tspan class="lang-pct">6.21%</tspan></text>
+  <circle cx="30" cy="120" r="5" fill="#663399"/>  <text x="42" y="124" class="lang-name">CSS <tspan class="lang-pct">6.19%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 900ms">
-  <circle cx="30" cy="142" r="5" fill="#89e051"/>  <text x="42" y="146" class="lang-name">Shell <tspan class="lang-pct">4.52%</tspan></text>
+  <circle cx="30" cy="142" r="5" fill="#89e051"/>  <text x="42" y="146" class="lang-name">Shell <tspan class="lang-pct">4.50%</tspan></text>
 </g>
 <g class="stagger" style="animation-delay: 1050ms">
-  <circle cx="30" cy="164" r="5" fill="#dea584"/>  <text x="42" y="168" class="lang-name">Rust <tspan class="lang-pct">2.87%</tspan></text>
+  <circle cx="30" cy="164" r="5" fill="#dea584"/>  <text x="42" y="168" class="lang-name">Rust <tspan class="lang-pct">2.86%</tspan></text>
 </g>
 </svg>
