@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "stars": 53,
+    "repos": 10,
+    "commits": 1681,
+    "total_commits": 1569,
+    "prs": 10,
+    "issues": 1,
+    "reviews": 1,
+    "followers": 4,
+    "langs": [
+      {
+        "name": "Lua",
+        "pct": 74.38772026687009,
+        "color": "#000080"
+      },
+      {
+        "name": "Python",
+        "pct": 14.093707985451113,
+        "color": "#3572A5"
+      },
+      {
+        "name": "CSS",
+        "pct": 5.700281115527102,
+        "color": "#663399"
+      },
+      {
+        "name": "Shell",
+        "pct": 3.2262958920044342,
+        "color": "#89e051"
+      },
+      {
+        "name": "Rust",
+        "pct": 2.591994740147259,
+        "color": "#dea584"
+      }
+    ]
+  },
+  "langs": [
+    {
+      "name": "Lua",
+      "pct": 74.38772026687009,
+      "color": "#000080"
+    },
+    {
+      "name": "Python",
+      "pct": 14.093707985451113,
+      "color": "#3572A5"
+    },
+    {
+      "name": "CSS",
+      "pct": 5.700281115527102,
+      "color": "#663399"
+    },
+    {
+      "name": "Shell",
+      "pct": 3.2262958920044342,
+      "color": "#89e051"
+    },
+    {
+      "name": "Rust",
+      "pct": 2.591994740147259,
+      "color": "#dea584"
+    }
+  ]
+}
