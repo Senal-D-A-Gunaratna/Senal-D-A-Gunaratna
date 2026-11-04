@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "stars": 55,
+    "repos": 9,
+    "commits": 1680,
+    "total_commits": 1261,
+    "prs": 7,
+    "issues": 1,
+    "reviews": 1,
+    "followers": 6
+  },
+  "langs": [
+    {
+      "name": "Lua",
+      "pct": 74.67791002212849,
+      "color": "#000080"
+    },
+    {
+      "name": "Python",
+      "pct": 13.758583777242784,
+      "color": "#3572A5"
+    },
+    {
+      "name": "CSS",
+      "pct": 5.7225181618552385,
+      "color": "#663399"
+    },
+    {
+      "name": "Shell",
+      "pct": 3.238881813604573,
+      "color": "#89e051"
+    },
+    {
+      "name": "Rust",
+      "pct": 2.6021062251689253,
+      "color": "#dea584"
+    }
+  ]
+}
